@@ -1,4 +1,4 @@
-# Exercise 2 - Lists and indices
+# Exercise 2 - Lists and indices (10 points)
 
 The exercise for this week is meant to help you better understand lists in Python, and practice saving changes to your files using Git and GitHub. You will also get to practice the Markdown syntax. 
 
@@ -7,7 +7,7 @@ Exercise 2 consists of 3 problems. For each problem you need to modify the noteb
 **Please don't change the file name**, i.e. do all your editing in the provided `Exercise-2.ipynb` file. 
 
 - **Exercise 2 is due by the start of the next lesson (9:15 am, 16 September 2020)**.
-- Scores on this exercise are out of **10 points (Problems 1-3)**.
+- **We are [working in pairs](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the member of your pair that is responsible for this week's exercise.
 
 ## Where to find help
 
