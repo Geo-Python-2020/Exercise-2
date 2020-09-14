@@ -12,7 +12,7 @@ Exercise 2 consists of 3 problems. For each problem you need to modify the noteb
 ## Where to find help
 
 - Review the [materials for Lesson 2](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/overview.html)
-- Check out [the hints for this week's exercise](https://geo-python-site.readthedocs.io/en/develop/lessons/L2/exercise-2.html#exercise-2-hints) on the course webpage
+- Check out [the hints for this week's exercise](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/exercise-2.html#exercise-2-hints) on the course webpage
 
 ## Before you start
 
